@@ -1,15 +1,24 @@
 ## Bookshelf
 
+## About this Fork:
+
+In this fork I try to remove analytical material and add or change some things.
+
+
+
+*here the original README*: 
+
+
+
 中文版在[这里]
 
 [这里]:https://smartjinyu.com/android/2017/02/09/mybookshelf.html
 
 ### Screenshots
+
 See [My Blog] for screenshots
 
 [My Blog]:https://smartjinyu.com/android/2017/02/09/mybookshelf.html
-
-
 
 ### Description
 
@@ -22,6 +31,7 @@ Recommendation by ifanr: [http://www.ifanr.com/app/798137]
 [http://www.ifanr.com/app/798137]:http://www.ifanr.com/app/798137
 
 Features:
+
 - Material Design
 - Specially designed for book management, no redundant functions 
 - Fully Open Source, no privacy issues
@@ -42,7 +52,6 @@ If you have any advice or complaints, feel free to open an issue. PR is welcomed
 
 [Google Play]:https://play.google.com/store/apps/details?id=com.smartjinyu.mybookshelf
 
-
 ### License
 
     Copyright (C) 2017 - 2020  smartjinyu
@@ -51,12 +60,11 @@ If you have any advice or complaints, feel free to open an issue. PR is welcomed
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
-
+    
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
-
+    
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
